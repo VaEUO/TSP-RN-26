@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "208079638173",
+    "firebase_url": "https://p3tsp20262-a14c6-default-rtdb.firebaseio.com",
+    "project_id": "p3tsp20262-a14c6",
+    "storage_bucket": "p3tsp20262-a14c6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208079638173:android:d0c34f0c58284c5db10e74",
+        "android_client_info": {
+          "package_name": "com.TemasValeriaUA.p3sp20262"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZK66mpudGbdPl0rmMJ1uyqNecKTokHac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
