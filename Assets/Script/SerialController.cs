@@ -62,4 +62,4 @@ public class SerialController : MonoBehaviour
         Debug.Log("sale de colision con" + other.name);
         serialPort.Write("0");
     }
-}/*
+}*/
